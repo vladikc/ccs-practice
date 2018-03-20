@@ -1,95 +1,93 @@
+/* Q1 */
 .logo{
-    color:red;
+  color: red;
 }
 
+/* Q2 */
 nav a{
-    color:green;
+  color: green;
 }
 
-
-nav a:visited{ 
-    color: #444;
-    
+/* Q3 */
+nav a:visited{
+  color: #444;
 }
 
-
-
-.above-the-fold button{
-    color:white;
-
-}
-
-
+/* Q4 */
 .above-the-fold{
-   background-color: 
+  color: white;
 }
 
-
+/* Q5 */
 .above-the-fold button{
-     
- }
-
- artice p::first-letter { 
-     margin-left: 30px;
-    
+  background-color: lightgreen;
+  color: white;
 }
 
+/* Q6 */
+article p::first-letter{
+  margin-left: 30px;
+}
 
+/* Q7 */
 .blog{
-    background: #666;
-    font:#cff;
-}
+  background-color: #666;
+  color: #cff;
+} 
 
-
-
+/* Q8 */
 .gallery figure{
-    /* horizontal/vertical/blur/color*/
-    box-shadow: 5px 40px 10px pink; 
+  box-shadow: /*horizontal*/5px /*vertical*/10px /*blur*/4px /*color*/ grey;
 }
 
-.gallery  figcaption {
-    padding: 8px;
+/* Q9 */
+.gallery figcaption{
+  padding: 8px;
 }
+/* Q10 */
 
 /* Q11 */
-article {
-margin-top: 40px auto 0 align;
-max-width: 800px;
-
+article{
+  margin-top: 40px auto 0 auto;
+  max-width: 800px;
+  /* margin-left: auto;
+  margin-right: auto; */
 }
 
-
-/* q12 */
-
+/* Q12 */
 .article-title{
-
+  text-align: center;
 }
 
-
-/* q13 */
-
+/* Q13 */
 section h2{
-    text-
-
-
-
+  text-transform: uppercase;
 }
 
-/* q14 q15 */
-form *{
-
+/* Q14 Q15 Q16 */
+.form-input{
+  display: block;
+  margin: 36px;
+  padding: 5px;
 }
 
-/* q16 */
-form input{
-    padding: 30px;
-
+/* Q17 */
+footer{
+  background-color: rgb(48, 48, 48);
+  color: #FFA136;
 }
 
-/* q17 */
+/* Q18 */
+.form-input:focus{
+  border-width: 4px;
+}
 
-footer {
-    background-color: rgb(127, 128, 132)
-    
-    
+/* Q19 */
+section h2::before{
+  content: ">";
+}
+
+/* Q20 */
+input[name="gender"]{
+  margin: 0px 5px 0px 20px;
 }
