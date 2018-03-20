@@ -1,0 +1,95 @@
+.logo{
+    color:red;
+}
+
+nav a{
+    color:green;
+}
+
+
+nav a:visited{ 
+    color: #444;
+    
+}
+
+
+
+.above-the-fold button{
+    color:white;
+
+}
+
+
+.above-the-fold{
+   background-color: 
+}
+
+
+.above-the-fold button{
+     
+ }
+
+ artice p::first-letter { 
+     margin-left: 30px;
+    
+}
+
+
+.blog{
+    background: #666;
+    font:#cff;
+}
+
+
+
+.gallery figure{
+    /* horizontal/vertical/blur/color*/
+    box-shadow: 5px 40px 10px pink; 
+}
+
+.gallery  figcaption {
+    padding: 8px;
+}
+
+/* Q11 */
+article {
+margin-top: 40px auto 0 align;
+max-width: 800px;
+
+}
+
+
+/* q12 */
+
+.article-title{
+
+}
+
+
+/* q13 */
+
+section h2{
+    text-
+
+
+
+}
+
+/* q14 q15 */
+form *{
+
+}
+
+/* q16 */
+form input{
+    padding: 30px;
+
+}
+
+/* q17 */
+
+footer {
+    background-color: rgb(127, 128, 132)
+    
+    
+}
